@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1ePWazP2mFxsy7CqwdgbAmRxJQY1_zaAQ
 """
 
-pip install google-genai pypdf
+# pip install google-genai pypdf
 
-import os
-from pypdf import PdfReader
-from google import genai
-from google.genai import types
+# import os
+# from pypdf import PdfReader
+# from google import genai
+# from google.genai import types
 
 # -------------------------------------------------------------
 # SETUP CONFIGURATION
